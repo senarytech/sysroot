@@ -1,0 +1,2 @@
+# sysroot
+rootfs for ubuntu
